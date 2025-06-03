@@ -1,7 +1,8 @@
 # Documentation de l'équipe UniWIP
 
 Table de contenu:
-- [Documentation de l'équipe UniWIP](#documentation-de-léquipe-uniwip) [Comment créer une page ?](#comment-créer-une-page-)
+- [Documentation de l'équipe UniWIP](#documentation-de-léquipe-uniwip)
+  - [Comment créer une page ?](#comment-créer-une-page-)
   - [Comment afficher un modèle 3D](#comment-afficher-un-modèle-3d)
 
 ## Comment créer une page ?
