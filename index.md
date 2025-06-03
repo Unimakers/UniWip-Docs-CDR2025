@@ -5,6 +5,8 @@ layout: home
 
 Voici l'accueil de la documentation de l'équipe [UniWIP] pour la [CDR 2025].
 
+Nous avons cette année fini 58e au classement de la [CDR 2025].
+
 
 [UniWIP]: https://github.com/orgs/Unimakers/teams/uniwip
 [CDR 2025]: https://www.coupederobotique.fr/edition-2025/
