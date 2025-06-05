@@ -12,9 +12,8 @@ layout: technical
 Le robot est le premier à effecuer des actions lors d'un matchs cette années il y en avait 2:
 
 <div style="display: flex; justify-content: space-around;">
-<img src="../images/reglebanderole.png" >
-<img src="../images/regleconserve.png" >
-<img src="../images/Panneaux_solaires.webp" height="30%" width="35%">
+<img src="../Images/reglebanderole.png" >
+<img src="../Images/regleconserve.png" >
 </div>
 
 Déployer une banderole conçu par l'équipe devant se déployer à l'avant de la table.
