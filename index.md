@@ -1,6 +1,7 @@
 ---
 title: Accueil
 layout: home
+nav_order: 0
 ---
 
 Voici l'accueil de la documentation de l'équipe [UniWIP] pour la [CDR 2025].

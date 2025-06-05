@@ -21,6 +21,9 @@ title: "Titre de votre page"
 layout: technical
 ---
 ```
+
+Utilisez `layout: technical` si vous souhaitez utiliser les modèles 3D ou le visualiseur kicad dans votre page, sinon utilisez `layout: default` pour réduire le temps de chargement de la page en supprimant les imports inutiles.
+
 Les clés de définition doivent se trouver entre les deux `---`.
 Après le deuxième `---` vous pouvez écrire le contenu de la page **en markdown**.
 

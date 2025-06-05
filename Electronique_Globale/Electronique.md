@@ -1,6 +1,7 @@
 ---
 layout: technical
 title: Electronique
+nav_order: 3
 ---
 
 Cette année, nous avons réalisé notre propre carte électronique pour les PAMIs et le Robot principal.
