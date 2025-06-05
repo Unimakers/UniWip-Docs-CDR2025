@@ -4,4 +4,4 @@ title: "Programmation"
 parent: "Robot"
 ---
 
-Plusieurs défis sont à relevé en ce qui sagit de la programmation.
+Si la mécanique du robot peut être vue comme son corps, il reste 
