@@ -18,7 +18,7 @@ Rajouter en haut du fichier:
 ```yaml
 ---
 title: "Titre de votre page"
-layout: default
+layout: technical
 ---
 ```
 Les clés de définition doivent se trouver entre les deux `---`.
