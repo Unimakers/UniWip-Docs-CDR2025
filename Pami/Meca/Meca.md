@@ -1,7 +1,8 @@
 ---
 title: "Mécanique"
-parent: "Robot"
+parent: "Pami"
 layout: technical
 ---
 
-La meca du robot
+La meca des PAMIs
+
