@@ -7,13 +7,13 @@ Table de contenu:
 
 ## Comment créer une page ?
 
-Aller dans le dossier correspondant au thème de la page, 
+Allez dans le dossier correspondant au thème de la page, 
 
 exemple pour l'élec du robot principal: Robot/Elec/
 
-Créer un nouveau fichier pour votre nouvelle page.
+Créez un nouveau fichier pour votre nouvelle page.
 
-Rajouter en haut du fichier:
+Rajoutez en haut du fichier:
 
 ```yaml
 ---
