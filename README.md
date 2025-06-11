@@ -1,9 +1,14 @@
+---
+title: "README & MICRODOC"
+layout: default
+---
 # Documentation de l'équipe UniWIP
 
 Table de contenu:
 - [Documentation de l'équipe UniWIP](#documentation-de-léquipe-uniwip)
   - [Comment créer une page ?](#comment-créer-une-page-)
   - [Comment afficher un modèle 3D](#comment-afficher-un-modèle-3d)
+
 
 ## Comment créer une page ?
 
@@ -46,15 +51,17 @@ Exemple, si vous créez une page dans la catégorie `Electronique` du `Robot` vo
 Actuellement l'arbre des titres et catégories est:
 ```
 Racine:
-|-Accueil
+|-Présentation
 |-Robot:
-| |-Electronique
-| |-Programmation
 | |-Mécanique
+| |-Stratégie
 |-Pami:
-| |-Electronique
-| |-Programmation
 | |-Mécanique
+| |-Stratégie
+|-Electronique
+|-Programmation
+| |-Déplacement
+| |-Détection
 ```
 
 Exemple pour créer une catégorie `Actionneurs` dans `Mécanique` sous `Robot` et ensuite créer une page `Pince`:
@@ -92,6 +99,10 @@ La pince du robot, nécessaire pour attraper.....
 
 Dans votre code markdown rajoutez:
 ```md
-{{%include model3D.html alt="Texte de description du modèle 3D" model="url / chemin du modèle 3D"%}}
+<model-viewer alt="Texte de déscription du modèle 3D" src="url / chemin du modèle 3D" ar shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+
+Ou
+
+{%raw%}{{%include model3D.html alt="Texte de description du modèle 3D" model="url / chemin du modèle 3D"%}}{%endraw%}
 ``` 
 Le modèle 3D **doit** être en format GLTF / GLB.
