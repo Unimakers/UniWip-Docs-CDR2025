@@ -5,14 +5,14 @@ layout: technical
 ---
 # Le robot principal
 
-<model-viewer alt="ROBOT" src="./FichiersGLTF/ExportRobotUniWIP.glb" ar shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+<model-viewer alt="ROBOT" src="./FichiersGLTF/ExportRobotUniWIP.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
 ## Introduction
 
 ### Les Objectifs
 
 Le robot est le premier à effecuer des actions lors d'un matchs cette années il y en avait 2:
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 <img src="../Images/reglebanderole.png" >
 <img src="../Images/regleconserve.png" >
 </div>
