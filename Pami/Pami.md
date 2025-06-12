@@ -24,14 +24,10 @@ Pour cette édition, il existait deux types de PAMIs :
 
 - La Superstar
 
-- Les Groupies
-
-    - La Superstar
-
         La Superstar devait monter sur la scène et avancer le plus loin possible dessus pour marquer un maximum de points. Une fois bien placée, elle pouvait activer un actionneur pour « danser ».
 
 
-    - Les Groupies
+- Les Groupies
 
         Les Groupies, quant à elles, devaient se positionner dans des zones spécifiques situées juste devant la scène. Elles aussi pouvaient activer un actionneur pour effectuer une danse.
 
