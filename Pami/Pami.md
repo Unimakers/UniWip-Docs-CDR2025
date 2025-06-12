@@ -5,6 +5,8 @@ has_children: true
 nav_order: 2
 ---
 
+<model-viewer alt="PAMI" src="./Meca/FichiersGLTF/ExportRobotUniWIP.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
+
 # Nos PAMIs
 PAMIs = Petit Actionneur Mobile Indépendant
 
