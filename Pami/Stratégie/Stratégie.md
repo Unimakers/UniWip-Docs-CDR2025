@@ -5,4 +5,4 @@ parent: "Pami"
 layout: default
 ---
 
-La stratégie des PAMIs
+La stratégie des PAMI
