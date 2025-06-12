@@ -10,6 +10,7 @@ nav_order: 2
 
 ## Qu'est-ce qu’un PAMI ?
 
+
 Un PAMI, ou Petit Actionneur Mobile Indépendant, est un petit robot autonome utilisé en complément du robot principal pendant un match. Il peut être lancé au début ou en cours de partie, et il doit être capable de se déplacer par lui-même, même s’il peut être aidé ou contrôlé par les robots de son équipe pendant le match.
 
 Comme les robots classiques, un PAMI doit respecter des règles strictes de sécurité et de construction : système d’arrêt d’urgence, détection d’obstacles, sécurité des batteries, etc. Il doit aussi pouvoir fonctionner quelle que soit la couleur de l’équipe.
@@ -39,4 +40,24 @@ Pour cette édition, il existait deux types de PAMIs :
     5 points supplémentaires sont donnés si la Superstar est sur la scène à la fin du match.
 
      Enfin, 10 points bonus sont attribués si tous les PAMIs dansent ensemble à la fin du match ("font la fête").
+
+##  Contraintes techniques des PAMIs
+
+En plus de leurs objectifs en match, les PAMIs doivent respecter un certain nombre de règles techniques précises imposées par le règlement.
+
+Tous les PAMIs doivent :
+
+- tenir au départ dans une zone de 150 mm par 450 mm commune à l’équipe,
+
+- mesurer au moins 60 mm de côté, et pas plus de 150 mm de haut avant déploiement,
+
+- avoir une zone dédiée de 30 mm × 30 mm pour coller l’autocollant du numéro de stand,
+
+- peser au maximum 1,5 kg.
+
+- Une fois lancés, les PAMIs peuvent se déployer, dans la limite d’une augmentation de 100 mm de périmètre, et évoluer jusqu’à 350 mm d’altitude.
+
+- biensur ils doivent également être entièrement autonomes.
+
+
 
