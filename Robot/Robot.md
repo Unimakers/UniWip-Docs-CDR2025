@@ -1,7 +1,7 @@
 ---
 title: "Robot"
-parent: "UniWip-Docs-CDR2025"
 layout: technical
+nav_order: 1
 ---
 # Le robot principal
 
