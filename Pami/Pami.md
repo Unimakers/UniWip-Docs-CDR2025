@@ -59,9 +59,10 @@ Tous les PAMIs doivent :
 
 - biensur ils doivent également être entièrement autonomes.
 
-si vous vouler plus d'information voici le lien en direction des diferents reglement 
+si vous vouler plus d'information voici le lien en direction des diferents reglement:     
 <a href="https://www.eurobot.org/wp-content/uploads/2024/10/Eurobot_General_Rules.pdf" target="_blank">
   <img src="./image/cdr logo.png" alt="Description" width="100" height="40" />
 </a>
 
 
+ 
