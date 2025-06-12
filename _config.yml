@@ -5,5 +5,8 @@ color_scheme: unimakers
 
 url: https://unimakers.fr/UniWip-Docs-CDR2025/
 
+nav_external_links:
+  - title: <- Return to website
+    url: https://unimakers.fr
 aux_links:
   Les Dépots de la team UniWIP: https://github.com/orgs/Unimakers/teams/uniwip/repositories
