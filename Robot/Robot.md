@@ -38,13 +38,18 @@ Le robot n'est pas autorisé à :
 ### Les règles spécifiques au robot 
 
 Le robot est soumis à des règles précises qu'il doit respecter pour etre homologué et pouvoir participer aux match, telles que : 
-
 -Les dimensions 
 -Respect des normes d'électricité 
--
+
 
 ### Les actionneurs et les capteurs
 
 Pour accomplir au mieux les actions de jeu, le robot etait équipé d'actionneurs. L'actionneur chargé de soulever les planches avait été imaginé avec des ventouses. Celles-ci, accrochées par paires à l'extrémité de deux bras articulés, etaient reliées à des pompes sur la face arrière du robot. 
 Pour les boites de conserve, l'action se faisait en se basant sur le magnétisme de celles-ci. Incrémentée de petits aimants, la sorte de pince se déplace de haut en bas sur un rail pour soulever les élements de jeux. 
+Pour avoir une idée du processus de conception de cet actionneur, vous retrouverez ci-dessous l'image de la première version : 
+
+ <img src="Images/v1 actio conserve.png" width=500>
  
+ On retrouve dès le depart l'idée d'utiliser le magnétisme, cependant nous avons pu affiner le rendu de la pièce jusqu'à finalement arriver au rendu final suivant : 
+ 
+ <img src="Images/vf actio conserve.png" width=500 >
