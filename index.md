@@ -14,7 +14,29 @@ Mais la Coupe, ce n’est pas seulement une compétition technique. C’est auss
 
 Participer à la Coupe de France de Robotique permet de relever un vrai défi, de progresser dans de nombreux domaines et de vivre une expérience unique.
 
-Pour bien comprendre l'envergure du challenge, il faut se pencher plus en détails sur les règles. 
+Pour bien comprendre l'envergure du challenge, il faut se pencher plus en détails sur les règles.
+
+Eurobot 2025 impose un cadre technique, stratégique et logistique exigeant.
+
+Chaque équipe doit concevoir un robot totalement autonome capable d’interagir avec des éléments du terrain dans un temps limité. Ses dimensions doivent être inférieures ou égales à 1200 mm en position repliée et inférieures ou égales à 1400 mm en déployé. Toutes les normes de sécurité de base doivent être respectées, notamment en termes d’électricité.
+De plus, un système anti-collision contre les robots adverses est obligatoire et doit être fonctionnel.
+
+Le match, chronométré à 100 secondes, demande d’allier la rapidité et la coordination.
+Les actions sont strictement encadrées : déplacement, collecte, positionnement d’objets, le tout sans contact avec l’adversaire.
+La moindre erreur peut entraîner des pénalités, voire une disqualification. C’est un défi important qui repose sur notre esprit d’équipe et notre ingéniosité.
+
+Ces règles sont à prendre en compte dès le début de de notre réflexion, car notre robot dois passer ce que l'on appel les homologations.
+
+## Installation et homologation
+
+Avant de pouvoir participer à son premier match, le robot doit passer toute une batterie de tests qu'il va devoir réussir pour être homologué. Cette homologation est divisée en deux parties :
+
+-Une statique : vérification de la conformité dimensionnelle, les normes de sécurité.
+
+-Une dynamique : le robot doit être capable de sortir de sa zone de départ et de réaliser une action en 100s.
+
+À savoir que, toute modification effectuée une fois l'homologation passée doit être signalée au référé, suivie d'une nouvelle validation du robot.
+
 
 Pour notre première participation nous avons fini 59e au classement de la [CDR 2025] .
 
