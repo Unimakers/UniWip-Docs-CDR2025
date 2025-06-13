@@ -1,3 +1,7 @@
+---
+title: Présentation de l'équipe
+layout: default
+---
 Notre équipe – Coupe de France de Robotique 2025 🤖
 
 Notre équipe, soudée et passionnée, s’est engagée cette année dans l’incroyable aventure de la Coupe de France de Robotique. Chacun a mis ses compétences, sa créativité et son énergie au service d’un projet commun : concevoir, construire et faire concourir un robot capable de relever tous les défis du règlement 2025.
