@@ -37,13 +37,4 @@ Le robot n'est pas autorisé à :
 - Voler des conserves dans la zone réservée à l'adversaire.
 - Dépasser la hauteur maximale en dehors des zones de constructions.
   
-## Installation et homologation
-
-Avant de pouvoir participer à son premier match, le robot doit passer toute une batterie de tests qui va devoir réussir pour être homologué. Cette homologuation est divisée en deux parties :
-
--Une statique : vérification de la conformité dimensionnelle, les normaes de sécurité.
-
--Une dynamique : le robot doit être capable de sortir de sa zone de départ et de réaliser une action en 100s.
-
-À savoir que, toute modification éffectuée une fois l'homologation passée doit être signalée au référé, suivi d'une nouvelle validation du robot.
 
