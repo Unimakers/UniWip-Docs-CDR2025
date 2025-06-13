@@ -36,11 +36,11 @@ Le robot n'est pas autorisé à :
 - Voler des conserves dans la zone réservée à l'adversaire.
 - Dépasser la hauteur maximale en dehors des zones de constructions.
 - 
-##Installation et homologuation
+## Installation et homologation
 
 Avant de pouvoir participer à son premier match, le robot doit passer toute une batterie de tests qui va devoir réussir pour être homologué. Cette homologuation est divisée en deux parties :
 
--Une statique : vérification de la conformité dimensionnelle, des modules etc..
+-Une statique : vérification de la conformité dimensionnelle, 
 -Une dynamique : le robot doit être capable de sortir de sa zone de départ et de réaliser une action en 100s.
 
 À savoir que, toute modification éffectuée une fois l'homologation passée doit être signalée au référé, suivi d'une nouvelle validation du robot.
@@ -55,15 +55,3 @@ Le robot est soumis à des règles précises qu'il doit respecter pour etre homo
 -Il doit avoir un système anti-collision contre les robots adverses.
 -Il doit présenter son marqueur d'identification.
 
-
-## Les actionneurs et les capteurs
-
-Pour accomplir au mieux les actions de jeu, le robot etait équipé d'actionneurs. L'actionneur chargé de soulever les planches avait été imaginé avec des ventouses. Celles-ci, accrochées par paires à l'extrémité de deux bras articulés, etaient reliées à des pompes sur la face arrière du robot. 
-Pour les boites de conserve, l'action se faisait en se basant sur le magnétisme de celles-ci. Incrémentée de petits aimants, la sorte de pince se déplace de haut en bas sur un rail pour soulever les élements de jeux. 
-Pour avoir une idée du processus de conception de cet actionneur, vous retrouverez ci-dessous l'image de la première version : 
-
- <img src="Images/v1 actio conserve.png" width=500>
- 
- On retrouve dès le depart l'idée d'utiliser le magnétisme, cependant nous avons pu affiner le rendu de la pièce jusqu'à finalement arriver au rendu final suivant : 
- 
- <img src="Images/vf actio conserve.png" width=500 >
