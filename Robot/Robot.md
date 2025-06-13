@@ -47,18 +47,3 @@ Avant de pouvoir participer à son premier match, le robot doit passer toute une
 
 À savoir que, toute modification éffectuée une fois l'homologation passée doit être signalée au référé, suivi d'une nouvelle validation du robot.
 
-### Les règles spécifiques au robot 
-
-Le robot est soumis à des règles précises qu'il doit respecter pour etre homologué et pouvoir participer aux match, telles que : 
-
--Les dimensions, un périmètre  ≤ 1200mm en position repliée et  ≤ 1400mm en déployé.
-
--Le robot doit être entièrement autonome.
-
--Le respect des normes d'électricité.
-
--Il doit avoir un système anti-collision contre les robots adverses.
-
--Il doit présenter son marqueur d'identification.
-
-
