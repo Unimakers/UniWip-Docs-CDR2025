@@ -44,7 +44,7 @@ Les deux autres PAMIs, surnommés nos **“groupies”**, suivent un scénario c
 
 **Légende :**  
 1 : Zone de départ  
-2 / 3 : Zones d’arrivée des PAMIs
+2 / 3 : Zones d’arrivée des groupies
 
 ---
 
