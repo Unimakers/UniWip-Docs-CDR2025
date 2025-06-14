@@ -5,7 +5,7 @@ parent: "Pami"
 layout: default
 ---
 
-# **Stratégie PAMIs – Coupe de France de Robotique 2025 UniWip** 🎯
+# **Stratégie PAMIs – Coupe de France de Robotique 2025 UniWIP** 🎯
 
 Pour cette édition, notre équipe **UniWIP** a misé sur une stratégie efficace et bien synchronisée, en s’appuyant sur **3 robots PAMIs différentiels**.  
 Ces robots compacts à deux roues motrices ont été conçus pour **se déplacer rapidement** et **manœuvrer sur de petites surfaces**, tout en respectant les contraintes de surface maximale autorisée.
