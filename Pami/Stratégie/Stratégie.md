@@ -21,6 +21,17 @@ Elles avancent en ligne droite
 Puis effectuent une rotation directionnelle selon la couleur de départ
 Et vont se positionner dans les zones 2 et 3, pour gagner 5 points chacune
 
+
+![Schéma table coupe 2025](Photo_scene.jpg)
+
+   **Schéma table coupe 2025**
+
+Légende :
+
+1 : Zone de départ
+
+2 / 3 : zones d’arrivé des PAMIs
+
 **Bonus : tous en danse !**
  Pour clôturer leur show, les 3 PAMIs se mettent à danser en agitant leurs bras, déclenchant un bonus de 10 points si les trois sont bien synchronisés.
 
