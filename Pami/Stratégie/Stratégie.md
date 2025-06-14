@@ -32,6 +32,8 @@ Légende :
 
 2 / 3 : zones d’arrivé des PAMIs
 
+
+
 **Bonus : tous en danse !**
  Pour clôturer leur show, les 3 PAMIs se mettent à danser en agitant leurs bras, déclenchant un bonus de 10 points si les trois sont bien synchronisés.
 
