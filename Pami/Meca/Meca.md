@@ -7,6 +7,7 @@ layout: technical
 La mécanique des PAMIs
 
 **Stratégie – Coupe de France de Robotique 2025** 🎯
+
 Pour cette édition, notre équipe UniWIP a misé sur une stratégie efficace et bien synchronisée, en s’appuyant sur 3 robots PAMIs différentiels. Ces robots compacts à deux roues motrices ont été conçus pour se déplacer rapidement et manœuvrer sur de petites surfaces, tout en respectant les contraintes de surface maximale autorisée.
 
 **Synchronisation avec le robot principal**
