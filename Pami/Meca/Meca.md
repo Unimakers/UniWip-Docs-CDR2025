@@ -4,7 +4,7 @@ parent: "Pami"
 layout: technical
 ---
 
-<model-viewer alt="PAMI" src="./Meca/FichiersGLTF/ExportPAMIUniWIP.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
+<model-viewer alt="PAMI" src="./FichiersGLTF/roue.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
 
 # La mécanique des PAMIs
 
