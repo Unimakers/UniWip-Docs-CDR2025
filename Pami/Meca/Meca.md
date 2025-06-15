@@ -4,6 +4,8 @@ parent: "Pami"
 layout: technical
 ---
 
+<model-viewer alt="PAMI" src="./Meca/FichiersGLTF/ExportPAMIUniWIP.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
+
 # La mécanique des PAMIs
 
 La mécanique des PAMIs s’appuie sur plusieurs éléments essentiels qui travaillent ensemble pour assurer leur déplacement, leur autonomie et leur sécurité pendant le match. Voici leur fonctionnement organisé de façon logique :
@@ -61,8 +63,6 @@ Une batterie compacte qui fournit l’énergie nécessaire à tous les composant
 ## 5. Les roues
 Les PAMIs sont équipés de deux roues motrices, placées au centre du robot, de part et d’autre de son châssis. Cette position centrale permet d’assurer un bon équilibre.
 En effet, si les roues étaient placées trop à l’arrière, le robot aurait tendance à pencher vers l’avant, et inversement s’il était trop à l’avant. En les positionnant au centre, on évite ce déséquilibre, ce qui garantit une meilleure stabilité lors des déplacements.
-
-<model-viewer alt="PAMI" src="./Meca/FichiersGLTF/ExportPAMIUniWIP.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
 
 2
 ## 6. Les moteurs pas à pas (NEMA 17)
