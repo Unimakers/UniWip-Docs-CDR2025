@@ -67,8 +67,8 @@ En effet, si les roues étaient placées trop à l’arrière, le robot aurait t
 ## 6. Les moteurs pas à pas (NEMA 17)
 Chaque roue est entraînée par un moteur pas à pas de type NEMA 17. Ces moteurs sont particulièrement adaptés aux déplacements précis, car ils permettent un contrôle angulaire très peécis. Cela rend le robot capable d’effectuer des mouvements maîtrisés, ce qui est essentiel pour se déplacer.
 
-<model-viewer alt="PAMI" src="./FichiersGLTF/moteur.gltf" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
-2
+<model-viewer alt="PAMI" src="./FichiersGLTF/moteur.gltf" ar style="width:80%; height:400px" shadow-intensity="5" camera-controls min-field-of-view="2deg"></model-viewer>
+
 ## 7. Le capteur ultrason
 Monté à l’avant du PAMI, ce capteur infrason détecte les obstacles et les distances. Il permet d’adapter la trajectoire du PAMI pour éviter les collisions, aidant ainsi à la navigation autonome.
 
