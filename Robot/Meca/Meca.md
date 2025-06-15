@@ -49,8 +49,7 @@ La banderole est le dernier actionneur réalisé ; celle-ci a été pensée pour
 
 Déposer en début de match sur la bordure un élastique assure une tension suffisante au bon déploiement de la banderole.
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-<img src="Images/banderole n
-dep.jpg" width=400 >
+<img src="Images/banderole ndep.jpg" width=400 >
 <img src="Images/banderole dep.jpg" width=400 >
 </div>
 ___
