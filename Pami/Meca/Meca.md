@@ -62,12 +62,23 @@ Une batterie compacte qui fournit l’énergie nécessaire à tous les composant
 Les PAMIs sont équipés de deux roues motrices, placées au centre du robot, de part et d’autre de son châssis. Cette position centrale permet d’assurer un bon équilibre.
 En effet, si les roues étaient placées trop à l’arrière, le robot aurait tendance à pencher vers l’avant, et inversement s’il était trop à l’avant. En les positionnant au centre, on évite ce déséquilibre, ce qui garantit une meilleure stabilité lors des déplacements.
 
-<model-viewer alt="PAMI" src="./FichiersGLTF/roue.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
+<model-viewer 
+  src="./FichiersGLTF/roue.glb"
+  alt="Modèle de roue"
+  camera-controls 
+  shadow-intensity="1"
+  exposure="1"
+  environment-image="neutral"
+  auto-rotate 
+  style="width: 80%; height: 400px;">
+</model-viewer>
+3
 ## 6. Les moteurs pas à pas (NEMA 17)
 Chaque roue est entraînée par un moteur pas à pas de type NEMA 17. Ces moteurs sont particulièrement adaptés aux déplacements précis, car ils permettent un contrôle angulaire très peécis. Cela rend le robot capable d’effectuer des mouvements maîtrisés, ce qui est essentiel pour se déplacer.
 
-<model-viewer alt="PAMI" src="./FichiersGLTF/moteur.gltf" ar style="width:80%; height:400px" shadow-intensity="5" camera-controls min-field-of-view="2deg"></model-viewer>
+<model-viewer alt="PAMI" src="./FichiersGLTF/moteur.gltf" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
 
 ## 7. Le capteur ultrason
 Monté à l’avant du PAMI, ce capteur infrason détecte les obstacles et les distances. Il permet d’adapter la trajectoire du PAMI pour éviter les collisions, aidant ainsi à la navigation autonome.
