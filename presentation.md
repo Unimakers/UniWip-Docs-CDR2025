@@ -14,18 +14,19 @@ Voici les membres qui ont fait vivre ce projet :
 
 🔌 Oscar, responsable des deux équipes et de l’équipe qui réalise le robot principal, a joué un rôle central en mécanique, électronique et coordination.
 
-📢 Solange a créé notre communication et réalisé plusieurs actionneurs mécaniques.
-
 💡 Ellyn a apporté des solutions innovantes en mécanique aux côtés d’Oscar.
 
 💻 Aurélien, notre super codeur, a donné vie au robot en programmant ses déplacements, ses stratégies et ses actions avec talent !
 
-🛠️ Matthieu a soutenu l’équipe sur tous les fronts, notamment lors des réparations de dernière minute.
+🧠 Bastian, responsable de l’équipe PAMI, a coordonné les travaux tout en participant activement à la conception.
 
 🔧 Jade a pris en charge la mécanique et l’électronique du robot PAMI.
 
-🧠 Bastian, responsable de l’équipe PAMI, a coordonné les travaux tout en participant activement à la conception.
+📢 Solange a créé notre communication et réalisé plusieurs actionneurs mécaniques.
+
+🛠️ Matthieu a soutenu l’équipe sur tous les fronts, notamment lors des réparations de dernière minute.
 
 🔧 Baptiste est venu en renfort pendant la Coupe, et ses talents ont permis l’homologation du robot principal !
+
 
 Une équipe soudée, inventive et toujours prête à relever les défis ! 🚀
