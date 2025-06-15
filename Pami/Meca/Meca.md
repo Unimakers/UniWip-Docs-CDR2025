@@ -64,6 +64,7 @@ En effet, si les roues étaient placées trop à l’arrière, le robot aurait t
 
 <model-viewer alt="PAMI" src="./Meca/FichiersGLTF/ExportPAMIUniWIP.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
 
+2
 ## 6. Les moteurs pas à pas (NEMA 17)
 Chaque roue est entraînée par un moteur pas à pas de type NEMA 17. Ces moteurs sont particulièrement adaptés aux déplacements précis, car ils permettent un contrôle angulaire très peécis. Cela rend le robot capable d’effectuer des mouvements maîtrisés, ce qui est essentiel pour se déplacer.
 
