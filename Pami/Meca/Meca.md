@@ -58,12 +58,18 @@ Un petit interrupteurqui  permet de sélectionner la couleur de l’équipe (ble
 ## 4. L’alimentation et la batterie
 Une batterie compacte qui fournit l’énergie nécessaire à tous les composants : moteurs, servomoteurs, capteurs. C’est grâce à cette source d’énergie que le PAMI peut fonctionner de façon autonome.
 
-## 5. Les roues et moteurs pas à pas (NEMA 17)
-Les PAMIs sont équipés de deux roues motrices entraînées par des moteurs pas à pas NEMA 17. Ces moteurs permettent un déplacement précis sur le terrain. Le mouvement des roues est la base de la mobilité du PAMI.
+## 5. Les roues
+Les PAMIs sont équipés de deux roues motrices, placées au centre du robot, de part et d’autre de son châssis. Cette position centrale permet d’assurer un bon équilibre.
+En effet, si les roues étaient placées trop à l’arrière, le robot aurait tendance à pencher vers l’avant, et inversement s’il était trop à l’avant. En les positionnant au centre, on évite ce déséquilibre, ce qui garantit une meilleure stabilité lors des déplacements.
 
-## 6. Le capteur ultrason
+<model-viewer alt="PAMI" src="./Meca/FichiersGLTF/roue.glb" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
+
+## 6. Les moteurs pas à pas (NEMA 17)
+Chaque roue est entraînée par un moteur pas à pas de type NEMA 17. Ces moteurs sont particulièrement adaptés aux déplacements précis, car ils permettent un contrôle angulaire très peécis. Cela rend le robot capable d’effectuer des mouvements maîtrisés, ce qui est essentiel pour se déplacer.
+
+## 7. Le capteur ultrason
 Monté à l’avant du PAMI, ce capteur infrason détecte les obstacles et les distances. Il permet d’adapter la trajectoire du PAMI pour éviter les collisions, aidant ainsi à la navigation autonome.
 
-## 7. Les servomoteurs avant
+## 8. Les servomoteurs avant
 Enfin, 2 petits servomoteurs sont situés à l’avant et serve a faire bouger un main pour réaliser l'action de danser.
 
