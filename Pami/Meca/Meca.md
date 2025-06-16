@@ -71,7 +71,6 @@ Chaque roue est entraînée par un moteur pas à pas de type NEMA 17. Ces moteur
 <model-viewer alt="PAMI" src="./FichiersGLTF/moteur.gltf" ar style="width:80%; height:400px" shadow-intensity="1" camera-controls min-field-of-view="2deg"></model-viewer>
 
 ### 🧩 Assemblage de la roue et du moteur
-L’image ci-dessous montre comment la roue est fixée sur le châssis du robot :
 
 🔧 Étapes de l’assemblage mécanique :
 
@@ -80,12 +79,15 @@ L’image ci-dessous montre comment la roue est fixée sur le châssis du robot 
 <img src="../image/mo.png" width="400"/>
 
 🔹 Une plaque de fixation est ajoutée entre le moteur et le bloc afin de le maintenir en position. Elle est vissée dans le châssis pour empêcher tout mouvement du moteur.
+
 <img src="../image/mo+pla.png" alt="Description" width="400"  />
 
 🔹 La roue est fixée directement sur l’arbre du moteur via une vis. Elle est munie d’un roulement à billes en son centre, sur sa face extérieure.
+
 <img src="../image/mo+pla+roue.png" alt="Description" width="400"  />
 
 🔹 Une seconde plaque, située de l’autre côté de la roue (côté extérieur), est fixe. Cette plaque accueille le roulement intégré à la roue : ainsi, la roue peut tourner librement grâce au roulement, tandis que la plaque reste immobile.
+
 <img src="../image/mo+pla+roue+pla.png" alt="Description" width="400" />
 
 
