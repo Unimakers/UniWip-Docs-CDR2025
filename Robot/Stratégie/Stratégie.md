@@ -60,3 +60,8 @@ Tout ceci effectuer nous venonr recuperer un stock de matérielle brut sans perd
 
 Enfin, nous venons nous déplacer rapidement juste devant la zone d'arrivée en backstage, en marche arrière bras de pompe baissé, nous permettant avec la projection verticale de venir valider les 10 points de zone finale sans bloquer les PAMIs qui vont se déployer dans quelques secondes.
 
+
+### Fin du matchs
+Et voilà, c'est fini pour le robot principal. Si tout se passe bien, on finit avec 20+12+4+ 10 = 46 points juste avec le robot principal. Il reste cependant d'autres points à compter, notamment les points bonus liés à l'estimation et les points des PAMIs.
+
+Une fois tous ces points comptés par les arbitres, nous pouvons confirmer et préparer notre robot pour le match suivant.
